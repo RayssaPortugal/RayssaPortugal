@@ -20,7 +20,7 @@ Me chamo Rayssa dos Anjos Portugal, tenho 20 anos e sou natural de São Paulo. C
         />
     </a>
 </p>
----
+-----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -138,11 +138,3 @@ Me chamo Rayssa dos Anjos Portugal, tenho 20 anos e sou natural de São Paulo. C
 />
 
 
-
-
-
-
-
-
-
--------
