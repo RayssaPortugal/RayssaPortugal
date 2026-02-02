@@ -5,14 +5,21 @@
 Me chamo Rayssa dos Anjos Portugal, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no EE Professor Antonio Jose Leite, com o curso técnico Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na Faculdade São Judas Tadeu (Usjt). Sou apaixonada por tecnologia e busco constantemente desenvolver meus conhecimentos por meio de estudos, projetos práticos e experiências acadêmicas.".
 
 <p
-    <a href="https://github.com/RayssaPortugal">
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/(https://github.com/RayssaPortugal)?tab=followers">
+    <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -20,7 +27,8 @@ Me chamo Rayssa dos Anjos Portugal, tenho 20 anos e sou natural de São Paulo. C
         />
     </a>
 </p>
------
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
