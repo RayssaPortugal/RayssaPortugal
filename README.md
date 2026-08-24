@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Rayssa dos Anjos Portugal, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no EE Professor Antonio Jose Leite, com o curso técnico Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na Faculdade São Judas Tadeu (Usjt). Sou apaixonada por tecnologia e busco constantemente desenvolver meus conhecimentos por meio de estudos, projetos práticos e experiências acadêmicas.".
+Me chamo Rayssa dos Anjos Portugal, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio no EE Professor Antonio Jose Leite, com o curso técnico Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na Faculdade São Judas Tadeu (Usjt). Sou apaixonada por tecnologia e busco constantemente desenvolver meus conhecimentos por meio de estudos, projetos práticos e experiências acadêmicas.".
 
 <p
     <a href="https://www.youtube.com/@larissakich">
